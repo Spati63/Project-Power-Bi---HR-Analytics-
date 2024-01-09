@@ -7,7 +7,7 @@ Power BI- DAX function, Power Query, Data Visualization.
 
 📌 Observations: 
 1. Total Employees : 1470
-2. Acvarge Age : 37
+2. Average Age : 37
 3. Attrition : 237
 4. Attrition Rate : 16%
 5. Average Monthly Income : 6.50k
@@ -32,5 +32,3 @@ Attrition rates show a distinct pattern:60% of departing employees are male.
 Key Takeaways:
 Understanding these insights is crucial for devising strategic retention policies, especially focusing on roles like Lab Technicians, Sales Executives, Research Scientists, and Sales Representatives. Additionally, recognizing patterns based on tenure, salary levels, and industry sectors aids in creating targeted interventions to reduce attrition.
 
-hashtag#powerbi hashtag#hranalytics hashtag#dashboarding hashtag#Attrition hashtag#upskilling hashtag#dataanalytics 
-hashtag#dataanalyticsjourney 
